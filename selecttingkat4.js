@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Auto select tab tingkat 4 pas registrasi igracias
 // @author       raisoturu
-// @match        https://igracias.telkomuniversity.ac.id/registration/*
+// @match        https://igracias.telkomuniversity.ac.id/registration/?pageid=761
 // @grant        none
 // @require      https://igracias.telkomuniversity.ac.id/javascripts/ui/jquery.ui.tabs.min.js
 // ==/UserScript==
