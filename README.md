@@ -1,8 +1,6 @@
 # usefull-igracias-script
 
 Kumpulan script berguna buat igracias
-=======
-imagine, lagi _war_ registrasi mk pil di igracias tapi lu harus mencet tab "Tingkat 4" teros...
 
 # How to use
 
@@ -52,7 +50,3 @@ here https://github.com/iamnubs/igracias-auto-survey
 ![LAAK mantap](/assets/img/yuk.jpg)
 
 [yuk](https://github.com/raisoturu/select-tab-mk-pil/issues)
-=======
-- Create new script then paste code inside selecttingkat4.js
-- (nah... just import selecttingkat4.js)
-- Tinggal refresh page registrasi terus... sampe mkpil kosong
