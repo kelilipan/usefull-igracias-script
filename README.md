@@ -1,17 +1,14 @@
 # usefull-igracias-script
 
-<<<<<<< HEAD
 Kumpulan script berguna buat igracias
 =======
 imagine, lagi _war_ registrasi mk pil di igracias tapi lu harus mencet tab "Tingkat 4" teros...
->>>>>>> 32cb11ff72560c8bb35540240012db6a2f477c6c
 
 # How to use
 
 - install tampermonkey
   - Chrome : [Install Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
   - Firefox : [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-<<<<<<< HEAD
 - Create new script then paste code inside .js file
 - (or just import the .js file whatever)
 
@@ -59,4 +56,3 @@ here https://github.com/iamnubs/igracias-auto-survey
 - Create new script then paste code inside selecttingkat4.js
 - (nah... just import selecttingkat4.js)
 - Tinggal refresh page registrasi terus... sampe mkpil kosong
->>>>>>> 32cb11ff72560c8bb35540240012db6a2f477c6c
