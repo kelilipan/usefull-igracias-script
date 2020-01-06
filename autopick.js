@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  auto pick mk pilihanmu if available,else it will automatically refresh
-// @author       tsr
+// @author       raisoturu
 // @match        https://igracias.telkomuniversity.ac.id/registration/*
 // @grant        none
 // @require      https://igracias.telkomuniversity.ac.id/javascripts/ui/jquery.ui.tabs.min.js
